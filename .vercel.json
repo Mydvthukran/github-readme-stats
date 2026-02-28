@@ -3,5 +3,8 @@
     "api/*.js": {
       "runtime": "nodejs18.x"
     }
+  },
+  "env": {
+    "PAT_1": "@pat_1"
   }
 }
